@@ -1,0 +1,7 @@
+
+	function <<ACTION_NAME>>(){
+		parent::update();
+		$this->redirect('<<MODULE_NAME>>/select');
+	}
+	
+}

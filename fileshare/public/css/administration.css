@@ -1,0 +1,99 @@
+body {
+    font-family: verdana;
+    font-size: 11px;
+    margin: 0px;
+}
+
+table {
+    border-spacing: 0;
+    padding: 0;
+}
+
+td {
+    padding: 5px;
+    vertical-align: top;
+}
+
+.td_border_top_bottom {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.td_border_bottom {
+    border-bottom: 1px solid rgb(209,209,209);
+    background-color: rgb(238,239,241);
+}
+
+a:link {
+    text-decoration: none;
+    color: #000;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #000;
+}
+
+a:active {
+    text-decoration: none;
+    color: #000;
+}
+
+.admin_bar {
+    background-color: rgb(73, 98, 156);
+    color: #fff;
+    border-top: 1px solid #000;
+}
+
+.admin_submenu_bar {
+    background-color: #91a4d0;
+    color: #fff;
+    text-align: left;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
+
+.background-error {
+    background-color: darkred;
+    color: #fff;
+}
+
+.background-warning {
+    background-color: orange;
+    color: #fff;
+}
+
+.background-success {
+    background-color: green;
+    color: #fff;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.input_text {
+    margin: 0;
+    padding: 0;
+    border:  1px solid rgb(219, 223, 230);
+    font-size: 11px;
+    padding: 1px;
+    width: 190px;
+}
+
+.status_active {
+    color: forestgreen;
+}
+
+.status_inactive, .status_error {
+    color: red;
+}
+
+.status_pending {
+    color: darkorange;
+}

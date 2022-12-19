@@ -1,0 +1,9 @@
+
+	function <<ACTION_NAME>>(){
+		$arr = array(
+<<ARRAY>>
+		);
+		return $arr;
+	}
+
+}	

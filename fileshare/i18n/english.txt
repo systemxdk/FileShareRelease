@@ -1,0 +1,143 @@
+ADMIN_ALERT_ADMINISTRATOR_DELETE:::Are you sure you want to remove the administrator?
+ADMIN_TEXT_ADMINISTRATORS_LIST:::Administrator list
+ADMIN_TEXT_ADMINISTRATOR_RIGHTS:::Administrator Rights
+ADMIN_TEXT_ADMINISTRATOR_USERACCESS:::Access types
+ADMIN_TEXT_SAVE:::Save
+BUTTON_ADMINISTRATOR_ADD:::Add administrator
+BUTTON_LOGOUT:::Log out
+ERROR_COULD_NOT_FIND_RECORD:::Could not find the record
+ERROR_FILESHARE_ALREADY_CREATED:::User already has a fileshare
+ERROR_FILESHARE_NO_USER_SELECTED:::You have not selected a user or there is no available users
+ERROR_INVALID_EMAIL:::Invalid email
+ERROR_LANGUAGE_FILE_MISSING:::Language file is missing on disk
+ERROR_LOGIN_INVALID:::Bad username or password
+ERROR_LOGIN_MISSING_PASSWORD:::You need to fill out a password
+ERROR_LOGIN_MISSING_USERNAME:::You need to fill out a username
+ERROR_LOGIN_NOT_LOGGED_IN:::You are not logged in
+ERROR_MISSING_ID:::Missing ID
+ERROR_SETTING_USER_NOT_FOUND:::Logged in user not found
+MENU_ABOUT:::About
+MENU_ACCOUNT:::My Account
+MENU_ADMINISTRATOR:::Administrators
+MENU_FILESHARE:::Filesharing
+MENU_LANGUAGE:::Language
+MENU_NETWORK:::Network
+MENU_SETTINGS:::Settings
+MENU_USERS:::Users
+SUBMENU_NETWORK_NSLOOKUP:::NSLookup
+SUBMENU_NETWORK_PING:::Ping
+SUBMENU_NETWORK_SIG:::Dig
+SUBMENU_SETTINGS_EMAIL:::E-mail
+SUBMENU_SETTINGS_FILESHARE:::FileShare
+TABLE_HEADER_ACCESS:::Access
+TABLE_HEADER_ACCESS_KEY:::Key
+TABLE_HEADER_ACTIVE_DAYS:::Active (days)
+TABLE_HEADER_CHANGE_PASSWORD:::Change the password
+TABLE_HEADER_CREATED:::Created
+TABLE_HEADER_DEFAULT_PAGE:::Default page
+TABLE_HEADER_DESCRIPTION:::Description
+TABLE_HEADER_EDIT:::Edit
+TABLE_HEADER_EMAIL:::E-mail
+TABLE_HEADER_EXPIRATION:::Expiration
+TABLE_HEADER_FILESHARE_DEACTIVATE:::Delete fileshare
+TABLE_HEADER_FIRSTNAME:::Firstname
+TABLE_HEADER_ID:::ID
+TABLE_HEADER_LASTNAME:::Lastname
+TABLE_HEADER_LAST_LOGIN:::Last login
+TABLE_HEADER_LOGINS:::Login count
+TABLE_HEADER_PASSWORD:::Password
+TABLE_HEADER_PHONE:::Phone
+TABLE_HEADER_QUOTA:::Quota MB
+TABLE_HEADER_STATUS:::Status
+TABLE_HEADER_SYSTEM_WARNING:::System warning
+TABLE_HEADER_UPDATED:::Updated
+TABLE_HEADER_USERNAME:::Username
+TEXT_ACCOUNT_EDITING:::Editing Account
+TEXT_ACCOUNT_SAVED:::FileShare account was saved with username %s
+TEXT_ACTIVE_DAYS:::Active days
+TEXT_ADMINISTRATOR_ADDING:::Adding Administrator
+TEXT_ADMINISTRATOR_COULD_NOT_FIND_RECORD:::Could not find the administrator
+TEXT_ADMINISTRATOR_CREATE:::Create Administrator
+TEXT_ADMINISTRATOR_DEFAULT_PAGE:::Default page
+TEXT_ADMINISTRATOR_EDITING:::Editing Administrator
+TEXT_ADMINISTRATOR_FILL_ONLY:::Only fill out password if you want to chagne it
+TEXT_ADMINISTRATOR_PASSWORD_EMPTY:::Password is empty
+TEXT_ADMINISTRATOR_RIGHTS:::Access Rights
+TEXT_ADMINISTRATOR_SAVE:::Save Administrator
+TEXT_ADMINISTRATOR_SAVED:::Administrator was saved
+TEXT_ADMINISTRATOR_USERACCESS:::User access
+TEXT_ADMINISTRATOR_USERNAME_EXIST:::Username already exist
+TEXT_CREATE:::Create
+TEXT_CREATE_ACCOUNT:::Create Account
+TEXT_DESCRIPTION:::Description
+TEXT_DIG:::Dig
+TEXT_EMAIL:::E-mail
+TEXT_EMAIL_BODY:::Body
+TEXT_EMAIL_SEND:::Send E-mail
+TEXT_EMAIL_SENT:::Email was sent
+TEXT_EMAIL_SUBJECT:::Subject
+TEXT_EMAIL_USER:::User
+TEXT_EMAIL_USER_EMAIL:::E-mail
+TEXT_FILESHARE_ADDING:::Adding Fileshare
+TEXT_FILESHARE_CHANGE_PASSWORD_SUCCESS:::Password will be changed on next cron run
+TEXT_FILESHARE_CREATED:::Fileshare was created on the user and is now waiting completion
+TEXT_FILESHARE_DELETE_SUCCESS:::The fileshare will be remove on next system run
+TEXT_FILESHARE_PASSWORD_AUTOGENERATE:::The password will be auto-generated and sent to users mail
+TEXT_FILESHARE_PASSWORD_NOT_STORED:::The unencrypted password is not saved in the system
+TEXT_FILESHARE_USERS:::Only users without a previous created account can be selected
+TEXT_FILESHARE_USERS_REACTIVATE:::If you wish to reactive or change an existing account you can do it under the account list.
+TEXT_FIRSTNAME:::Firstname
+TEXT_LASTNAME:::Lastname
+TEXT_LOGGED_IN:::You were logged in
+TEXT_LOGGED_OUT:::You were logged out
+TEXT_LOGIN:::Login
+TEXT_LOGIN_BELOW:::Login below
+TEXT_NETWORK_DIG:::Dig
+TEXT_NETWORK_HOST:::IP or domain
+TEXT_NETWORK_NSLOOKUP:::NSLookup
+TEXT_NETWORK_PING:::Ping
+TEXT_NETWORK_TARGET_INVALID:::Target has to be a IPv4 address or a hostname
+TEXT_NETWORK_TARGET_MISSING:::Target has to be filled
+TEXT_NSLOOKUP:::NSLookup
+TEXT_PASSWORD:::Password
+TEXT_PING:::Ping
+TEXT_QUOTA:::Quota (MB)
+TEXT_SAVE:::Save
+TEXT_SETTINGS_EMAIL:::Settings for e-mail
+TEXT_SETTINGS_EMAIL_OUTGOING_EMAIL:::E-mail
+TEXT_SETTINGS_EMAIL_OUTGOING_EMAIL_FROM:::E-mail From
+TEXT_SETTINGS_EMAIL_OUTGOING_PASSWORD:::Password
+TEXT_SETTINGS_EMAIL_OUTGOING_PORT:::Port
+TEXT_SETTINGS_EMAIL_OUTGOING_SMTP:::SMTP
+TEXT_SETTINGS_FILESHARE:::FileShare
+TEXT_SETTINGS_FILESHARE_DEFAULT_EXPIRATION_DAYS:::Default FTP account expiration (days)
+TEXT_SETTINGS_FILESHARE_DEFAULT_QUOTA:::Default Quota (MB)
+TEXT_SETTINGS_FILESHARE_DEFAULT_QUOTA_MB:::Default Quota (MB)
+TEXT_SETTINGS_FILESHARE_PASSWORD_LENGTH:::Password Length
+TEXT_SETTING_SAVED:::Settings were saved
+TEXT_STATUS_ACTIVE:::Active
+TEXT_STATUS_ERROR:::System Error
+TEXT_STATUS_INACTIVE:::Inactive
+TEXT_STATUS_PENDING:::Pending
+TEXT_TITLE:::FileShare
+TEXT_TITLE_ADMINISTRATION:::FileShare Administration
+TEXT_TITLE_LOGIN:::Login to FileShare
+TEXT_TRANSLATE_LANG_DANISH:::Danish
+TEXT_TRANSLATE_LANG_ENGLISH:::English
+TEXT_TRANSLATIONS:::Translations
+TEXT_TRANSLATIONS_SAVED:::Translations were saved
+TEXT_TYPE_PASSWORD:::Type in password
+TEXT_TYPE_USERNAME:::Type in username
+TEXT_USERACCESS_ADD:::Add access type
+TEXT_USERACCESS_CREATE:::Create access type
+TEXT_USERACCESS_EDIT:::Edit access type
+TEXT_USERACCESS_NOT_GRANTED:::You do not have access or your session expired
+TEXT_USERACCESS_SAVED:::Access type was sved
+TEXT_USERNAME:::Username
+TEXT_USER_ACCESS_KEY:::Key
+TEXT_USER_ADD:::Add User
+TEXT_USER_ADDING:::Adding User
+TEXT_USER_EDITING:::Editing User
+TEXT_USER_SAVED:::Your account was saved
+TEXT_USER_SELECT:::User
+TEXT_WRITTEN_BY:::Written by %s

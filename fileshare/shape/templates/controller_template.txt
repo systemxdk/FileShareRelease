@@ -1,0 +1,15 @@
+<?
+
+class <<MODULE_NAME>> extends shController {
+	
+	function __construct(array $arguments = array()){
+		parent::__construct($arguments);
+		
+		$this->className = '<<CLASS_NAME>>';
+	}
+	
+	function index(){
+
+	}
+	
+}

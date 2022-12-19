@@ -1,0 +1,49 @@
+body {
+    background-color: white; /*rgb(238,239,241);*/
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    background-color: rgb(73, 98, 156);
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+
+input {
+    margin: 5px 0px 5px 0px;
+    padding: 5px;
+}
+
+select {
+    margin: 5px 0px 5px 0px;
+    padding: 5px;
+}
+
+div.login {
+    margin: 10px 0px 10px 0px;
+    color: black;
+}
+
+span.error {
+    color: darkred;
+}
+
+span.success {
+    color: green;
+}
+
+#container {
+    width: 300px;
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    margin: -117px 0 0 -150px;
+    padding: 10px;
+    text-align: right;
+    /*background-color: rgb(73, 98, 156);
+    background-color: #91a4d0;*/
+    background-color: rgb(238,239,241);
+    border: 2px solid #333;
+}

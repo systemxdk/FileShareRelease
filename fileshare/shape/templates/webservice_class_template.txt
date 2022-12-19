@@ -1,0 +1,20 @@
+<?php
+class <<MODULE_NAME>>_webservice extends shWebserviceClass {
+	
+	public $testvar;
+	
+	function __construct()
+	{
+		parent::__construct();
+		$this->testvar = 'Dette er en demo, du har genereret webservice modulet: <<MODULE_NAME>>';
+	}
+	
+	/**
+	 * Enter description here...
+	 *
+	 * @return string testvar
+	 */
+	public function testmetode(){
+		return $this->testvar;
+	}
+}

@@ -1,0 +1,6 @@
+
+	function <<ACTION_NAME>>(){
+		parent::delete();
+		$this->redirect('<<MODULE_NAME>>/select');
+	}
+}

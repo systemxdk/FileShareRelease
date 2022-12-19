@@ -1,0 +1,3 @@
+<?php
+
+shFilter::IgnoreFilter('userauthfilter');

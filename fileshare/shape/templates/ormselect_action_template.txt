@@ -1,0 +1,6 @@
+
+	function <<ACTION_NAME>>(){
+		parent::select();
+	}
+
+}	

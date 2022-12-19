@@ -1,0 +1,28 @@
+<?php
+
+
+class <<HELPER_NAME>> extends shHelper {
+	
+	function __construct(/* Arguments */){
+		//TODO setup rules and attributes
+	}
+	
+	/**
+	 * magic function
+	 *
+	 */
+	function __toString(){
+	
+		// Logic
+	
+		ob_start();
+		?>
+
+			Input your HTML content here
+		
+		<?
+		
+		return ob_get_clean();
+	}
+	
+}

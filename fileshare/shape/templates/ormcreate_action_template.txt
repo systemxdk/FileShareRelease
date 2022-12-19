@@ -1,0 +1,6 @@
+
+	function <<ACTION_NAME>>(){
+		$this->update();
+	}
+	
+}
